@@ -1,0 +1,16 @@
+X,id,replicate.id,experiment,day
+1,BaseR1,R1,base,1
+2,BaseR2,R2,base,1
+3,log1_5,R1,log1_5,1
+4,log2_0,R1,log2_0,1
+5,R1D12d,R1,direct,12
+6,R1D16d,R1,direct,16
+8,R1D1d,R1,direct,1
+10,R1D8d,R1,direct,8
+11,R2D14ind,R2,indirect,14
+12,R2D1ind,R2,indirect,1
+13,R2D21ind,R2,indirect,21
+14,R2D24ind,R2,indirect,24
+15,R2D7ind,R2,indirect,7
+16,RID16ind,R1,indirect,16
+17,RID21ind,R1,indirect,21
